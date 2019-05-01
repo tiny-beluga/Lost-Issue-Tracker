@@ -1,2 +1,2 @@
-# Project Star Issue Tracker
-Project Star Issue Tracker
+# Lost™ Issue Tracker
+Issue Tracker for Lost™
